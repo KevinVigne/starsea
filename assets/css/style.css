@@ -1,0 +1,54 @@
+*  {
+    box-sizing: border-box;
+    /* Aligne les éléments sur la ligne de base du texte environnant, pour un rendu plus cohérent. */
+    vertical-align: baseline;
+    margin: 0 auto;
+}
+ 
+/* création des colonnes en % avec 6 chiffres après la virgule*/
+.col-1 {width: 8.333333%;}
+.col-2 {width: 16.666666%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.333333%;}
+.col-5 {width: 41.666666%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.333333%;}
+.col-8 {width: 66.666666%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.333333%;}
+.col-11 {width:91.666666%;}
+.col-12 {width: 100%;}
+/*Application de la police ainsi que Création de container*/
+.container{
+    width: 100%;
+    margin: 0 auto;
+    font-family: "Caveat Brush", cursive;
+}
+/*Création d'une disposition en ligne*/
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+/*Importation des couleurs du site*/
+.darkblue{
+    background-color:#1e0b38 ;
+}
+.blue{
+    background-color :#343773;
+}
+.purple{
+    background-color :#7965BF;
+}
+.purpleText{
+    color: #7965BF;
+}
+.list{
+ list-style-type: none;
+}
+.title{
+    font-size: 50px;
+}
+.logo{
+    height: 15%;
+}

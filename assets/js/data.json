@@ -1,0 +1,78 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Télescope Pro Ritchey-Chretien RC 250/2000 EQ6-R Pro",
+        "prix" : 4790,
+        "description" : "Ce télescope combine un Ritchey-Chretien RC 254/2000 OTA d'Omegon avec une monture Skywatcher EQ6-R Pro. Permet enfin de photographier des objets du ciel en qualité professionnelle. Avec des étoiles rondes et nettes jusqu'au au bord. De grands champs de vision pour utiliser votre appareil photo plein format. La monture Pro EQ-6-R maintien les étoiles et les objets dans le champ. Grâce à un mouvement précis avec un entraînement par courroie, vous réussirez des astrophotos incroyables.",
+        "img": "telescope_omegon_pro_ritchey_chretien.jpg"
+    },
+    {
+        "id" : 2,
+        "nom" : "Télescope Schmidt-Cassegrain SC 356/3910 EdgeHD 1400 CGX-L GoTo",
+        "prix" : 15599,
+        "description" : "Le terme 'EdgeHD' désigne, chez Celestron, un télescope de conception optique nouvelle - le 'Schmidt-Cassegrain aplanétique'. Après plus de 50 années de succès, Celestron vient de révolutionner le télescope SC classique. Les télescopes EdgeHD (de l'anglais : 'Edge High Definition') de Celestron possèdent toutes les caractéristiques de véritables astrographes. Mais de plus, ce système optique produit des images sans aucune distorsion et d'une définition parfaite jusqu'au bord ('Edge') du vaste champ visuel et photographique. En plus du coma en-dehors de l'axe optique - qui est corrigé aussi par d'autres systèmes dits 'sans coma' présents sur le marché - ici, c'est la courbure de champ qui est corrigée. De nombreux systèmes optiques se vantent d'être des 'astrographes'. Or, l'image tant recherchée des étoiles en forme de 'pointe d'aiguille' est produite par ces systèmes le long d'un plan d'image courbe. Sur des photos prises avec des caméras CCD modernes, il en résulte une courbure de champ notable qui s'accentue vers le bord de l'image, et ce d'autant plus que le capteur est grand. Les étoiles restent circulaires, certes, mais elles enflent vers le bord en formant de petits anneaux ('donuts'). Sur les télescopes Edge HD de Celestron, outre le coma, cette courbure de champ est également corrigée jusqu'au bord; cela signifie que même les photos prises avec de grands capteurs CCD sont parfaitement nettes et montrent les étoiles avec la même taille régulière sur la totalité du capteur et jusque dans les moindres recoins du champ. Il en résulte aussi une amélioration considérable en termes de pouvoir séparateur et de magnitude limite, par rapport à des systèmes optiques concurrents ayant une ouverture comparable. Par ailleurs, le traitement multicouche Celestron XLT permet également aux optiques EdgeHD de se démarquer nettement, par des performances accrues, des systèmes similaires présents sur le marché.",
+        "img": "telescope_schmidt_cassegrain_celestron.jpg"
+    },
+    {
+        "id" : 3,
+        "nom" : "Télescope AC 70/700 AZ-2",
+        "prix" : 129,
+        "description" : "La lunette astronomique Omegon AC 70/700 - votre porte d'entrée vers le monde des étoiles. Elle est tellement facile à utiliser qu'elle convient parfaitement aussi bien pour les enfants que les adultes.",
+        "img": "telescope_refracteur_achromatique.jpg"
+    },
+    {
+        "id" : 4,
+        "nom" : "Télescope Schmidt-Cassegrain SC 150/1500 StarSense Explorer DX 6 AZ ",
+        "prix" : 1039 ,
+        "description" : "Malgré la grande longueur focale de l'optique Schmidt-Cassegrain, le tube est très court, ce qui en fait un télescope compact extrêmement facile à transporter. La lumière arrive d'abord sur une lame correctrice asphérique Schmidt, puis elle est projetée sur le miroir primaire sphérique. Celui-ci la réfléchit sur un miroir secondaire qui la renvoie de nouveau sur le miroir primaire. Le faisceau lumineux re-traverse alors ce miroir primaire, en passant par un orifice central. C'est ainsi que la lumière arrive sur le porte-oculaire situé à l'extrémité arrière du tube. Le système est donc fermé et ne subit pas de turbulences d'air qui risqueraient de dégrader l'image. De plus, il est protégé contre l'entrée de poussières. La lame de Schmidt étant traitée multicouche, elle garantit des images claires avec peu de reflets.",
+        "img" :"telescope_cassegrain.jpg"
+    },
+    {
+        "id" : 5,
+        "nom" : "Télescope solaire ST 76/630 Heliostar-76 H-alpha ",
+        "prix" : 2659 ,
+        "description" : "Le nouveau modèle de télescope solaire Sky-Watcher Heliostar vous permettra d'observer les protubérances et autres détails du Soleil dans la longueur d'onde dite « hydrogène alpha » (ou -H-Alpha ») en toute sécurité. Cette longueur d'onde est située dans le domaine visible, à 656,28 nanomètres. Le tout avec une bande passante très étroite de 0,5 Angström (Å) ou moins. Cette longueur d'onde de la lumière est émise spécifiquement par les atomes d'hydrogène. Observer le Soleil dans cette portion du spectre visible et avec une bande passante très étroite permet d'accéder aux nombreux phénomènes qui agitent la chromosphère, l'une des nombreuses couches de la structure de notre étoile.",
+        "img" :"telescope_solaire.jpg"
+    },
+
+    {
+        "id" : 6,
+        "nom" : "Télescope N 150/750 Explorer 150P EQ3-2 ",
+        "prix" : 489 ,
+        "description" : "L'optique N 150/750: Très polyvalent, ce réflecteur Newton convient aussi bien aux débutants qu'aux observateurs chevronnés. Il offre beaucoup de lumière et une grande stabilité à petit prix. La quantité de lumière collectée grâce à son imposant diamètre de 150 mm permet de bien voir des objets très éloignés du ciel profond tels que la Nébuleuse de l'Anneau dans la Lyre ou la Nébuleuse Hantel. Et des amas globulaires comme M13 sont résolus, au bord, en de nombreuses étoiles individuelles. L'observation planétaire aussi offre des images riches en détails de Saturne, Jupiter, Vénus et Mars. Le rapport d'ouverture de l'objectif est de F/5. Ce télescope fait donc partie des Newton rapides. Ce type d'optique convient particulièrement bien pour la photographie. Le pouvoir collecteur est d'environ 450 fois plus grand qu'à l'œil nu avec une pupille de sortie de 7 mm ",
+        "img" :"telescope_newton_skywatcher.jpg"
+    },
+
+    {
+        "id" : 7,
+        "nom" : "Télescope Telescope AC 80/400 AZ-3 ",
+        "prix" : 269 ,
+        "description" : "Omegon 80/400 AZ-3 - le télescope compact pour les voyages et l'observation des comètes  . Un long chemin, un long voyage, une aventure dans le ciel : Si léger, si compact : vous pouvez emporter ce télescope partout avec vous pour observer les comètes. Avec une ouverture de 80 mm et une distance focale de 400 mm, il vous offre un champ de vision vraiment large. Grâce au mouvement fin de la monture AZ-3, vous pouvez facilement suivre la comète. Vous trouverez ainsi les comètes presque automatiquement... ",
+        "img" :"telescope_solaire_omegon.jpg"
+    },
+
+    {
+        "id" : 8,
+        "nom" : "Télescope Pro Ritchey-Chretien RC Truss Tube 406/3250 GM 3000 ",
+        "prix" : 28490 ,
+        "description" : "Équipement complet avec accessoires d'une valeur de plus de 1 200 euros : deux contrepoids de 12 kg, alimentation secteur spéciale 10Micron et platines de serrage MAXI pour brides 8'. Astrophotos impressionnantes avec un télescope RC géant. Le tube treillis en carbone de 16', ainsi que la cellule miroir, sont travallés dans la masse. Tel qu'attendu d'un instrument haut de gamme pour l'astrophotographie. Vous pouvez saisir les objets du ciel profond avec plein de détails avec votre appareil photo comme seul peut le faire un télescope de 400 mm. La 10Micron GM 3000 HPS supporte jusqu'à 100 kg, elle est la base optimale dans la catégorie des super poids lourds. Avec cette mécanique de haute précision, les astrophotos réussies sont garanties. ",
+        "img" :"telescope_omegon_pro_ritchey_chretien_2.jpg"
+    },
+
+    {
+        "id" : 9,
+        "nom" : "Télescope AC 70/700 Mercury AZ-2 ",
+        "prix" : 139 ,
+        "description" : "Grâce à son ouverture de 70 mm, ce télescope réfracteur collecte 100 fois plus de lumière que l'oeil nu et donc nettement plus que les télescopes classiques d'initiation dont l'ouverture de 60 mm est à peine plus petite. De ce fait, sa résolution est également plus grande et, avec un grossissement maximum de 140x, l'instrument révèle déjà certains détails sur les grandes planètes que sont Saturne, Jupiter et Mars. Il y a aussi la lune, bien sûr, avec son magnifique paysage de cratères qui, selon la phase, apparaît dans une lumière toujours différente. Vous pourrez aussi faire d'intéressantes observations nature en lumière du jour, en utilisant un redresseur d'image ou un prisme Amici. La mise au point s'effectue par une molette qui, située sur le porte-oculaire, commande celui-ci via une crémaillère. Le réglage peut donc se faire avec précision et reste bien bloqué pendant l'observation. ",
+        "img" :"telescope-schmidt-cassegrain-celestron.jpg"
+    },
+
+    {
+        "id" : 10,
+        "nom" : "Télescope Maksutov MC 152/1900 Messier Hexafoc EXOS-2 ",
+        "prix" : 1436 ,
+        "description" : "Un télescope Maksutov est très compact et convient parfaitement pour une utilisation mobile ou pour des voyages. L'optique fermée et la stabilité du réglage des Maksutov garantissent plus de robustesse. Malgré leur conception compacte, les télescopes Maksutov ont une distance focale très élevée. Mais le champ de vision est plutôt faible comparé à un achromat. Cette combinaison fait du télescope Maksutov un instrument idéal pour observer la Lune et les planètes. Equipée d’un renvoi coudé redresseur, cette optique convient également très bien à l’observation de la nature et à la photographie. ",
+        "img" :"telescope_maksutov.jpg"
+    }
+]
+
